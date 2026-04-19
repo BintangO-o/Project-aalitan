@@ -19,3 +19,4 @@ exit($status);
 
 // php artisan serve
 // php artisan make:controller TodoController --resource
+// php artisan make:model Todo -m
