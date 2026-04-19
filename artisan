@@ -20,3 +20,4 @@ exit($status);
 // php artisan serve
 // php artisan make:controller TodoController --resource
 // php artisan make:model Todo -m
+// php artisan make:migration create_todos_table
